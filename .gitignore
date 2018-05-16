@@ -1,0 +1,6 @@
+/**/packages/
+/**/.vs/
+/**/.nuget
+/**/bin/
+/**/obj/
+/**/TestResults/
