@@ -28,7 +28,7 @@
         </Grid.RowDefinitions>
 
         <TextBlock Grid.Row="0"
-                   Text="Employee Summary View"
+                   Text="Employee Summary View test-1"
                    TextWrapping="Wrap"
                    FontSize="18"
                    Foreground="#FF2F3806"
